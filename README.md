@@ -136,18 +136,8 @@ python visualize.py
 *Data Analyst & Aspiring Web3 Data Engineer*
 Driven to uncover insights from decentralized systems.
 
-## 📄 License
 
-MIT License – Use, share, and adapt with credit.
 
 ```
-
----
-
-Once added to your repo, GitHub will automatically display it when someone visits the repo.
-
-Would you like a sample `requirements.txt` next?
-```
-
 
   
