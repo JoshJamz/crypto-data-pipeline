@@ -9,12 +9,19 @@ This project is a full-cycle **data engineering and analytics pipeline** focused
 ## 📦 Project Structure
 crypto_pipeline/
 │
+
 ├── data/ # Stores raw & transformed data files
+
 ├── outputs/ # Stores visuals, reports, and analysis results
+
 ├── fetch_and_store.py # Pulls crypto data from API and stores locally/DB
+
 ├── analyze_risk_tags.py # Frequency & correlation analysis of vulnerabilities
+
 ├── cluster_analysis.py # Runs unsupervised clustering on smart contracts
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project overview (this file)
 
 
