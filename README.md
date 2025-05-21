@@ -95,15 +95,6 @@ This project is a full-cycle **data engineering and analytics pipeline** focused
 
 ```
 
-crypto\_pipeline/
-│
-├── fetch\_and\_store.py        # Pulls data and stores in JSON & PostgreSQL
-├── analyze.py                # Statistical and ML-based data analysis
-├── visualize.py              # Graphs and charts
-├── data/                     # Local storage for raw JSON files
-├── outputs/                  # Graphs and cluster results
-├── requirements.txt          # Python package dependencies
-└── README.md                 # This file
 
 ````
 
